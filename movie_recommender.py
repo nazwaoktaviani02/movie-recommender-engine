@@ -36,7 +36,7 @@ def get_index_from_title(title):
     return df[df.title == title].index[0]
 
 # Recommendation Logic
-movie_user_likes = "Avatar"
+movie_user_likes = "Tangled"
 
 try:
     movie_index = get_index_from_title(movie_user_likes)
