@@ -24,3 +24,14 @@ The system uses a movie dataset containing:
 1. Clone this repo:
    ```bash
    git clone [https://github.com/nazwaoktaviani02/movie-recommender-engine.git]
+
+2. Install dependencies:
+   ```bash
+   pip install pandas numpy scikit-learn
+
+3. Run the script:
+   ```bash
+   python movie_recommender.py
+
+ℹ️ Disclaimer
+I’m still figuring this out! This is a simple logic-sharing project, not a god-level recommendation system.
